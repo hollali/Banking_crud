@@ -1,0 +1,7 @@
+Basic Crud
+Username: Admin
+password :0000
+
+Internalbanking
+username:admin@mail.com
+12345
